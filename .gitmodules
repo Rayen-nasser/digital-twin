@@ -1,0 +1,6 @@
+[submodule "digital-twin-backend"]
+	path = digital-twin-backend
+	url = https://github.com/Rayen-nasser/digital-twin-backend.git
+[submodule "digital-twin-frontend"]
+	path = digital-twin-frontend
+	url = https://github.com/Rayen-nasser/digital-twin-frontend.git
